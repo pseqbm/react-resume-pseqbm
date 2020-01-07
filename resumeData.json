@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name":"Paul Savchuk",
+    "occupation":"Full Stack Software Engineer",
+    "description":"I’m well known for my work with MERN stack. Presently I’m looking for my next role in a diverse and inclusive team, ideally remote - located in Los Angeles Great Area may be okay too!",
+    "image":"profilepic.jpg",
+    "bio":"Senior Software Engineer experienced in building and deploying full-stack JavaScript applications with emphasis on modularized React/Redux front-ends and scalable Node server design.",
+    "contactmessage":"Please contact me with the email address instead.",
+    "email": "ps@eqbm.io",
+    "phone": "650-440-0819",
+    "address":{
+      "street":"336 S Rexford Dr Ste 5",
+      "city":"Los Angeles",
+      "state":"CA",
+      "zip": "90212"
+    },
+    "website": "http://www.eqbm.io",
+    "resumedownload":"https://drive.google.com/file/d/1hc4oRm1pTukNBhohb08FiMWF82tE_QfX/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/paul.savchuk.58",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/eqbm_io",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/paul-savchuk/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/nerdo_gallery/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/pseqbm",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Cambridge College",
+        "degree":"Master's in Business Administration",
+        "graduated":"May 2017",
+        "description":"Acquired deep knowledge in Strategy and Business Development"
+      },
+      {
+        "school":"National Aviation University",
+        "degree":"Master's in Business Intelligence",
+        "graduated":"June 2015",
+        "description":"Acquired programming skills for Business and Data Analysis"
+      },
+      {
+        "school":"National Aviation University",
+        "degree":"Bachelor's in Economics",
+        "graduated":"June 2013",
+        "description":"Acquired skills in Behavioral Finance and Economics"
+      }
+    ],
+    "work":[
+      {
+        "company":"EQBM Inc.",
+        "title":"Full Stack Software Engineer",
+        "years":"April 2017 - Present",
+        "description":"Led Team in building a multi-platform application using React, streamlining our team’s agile development cycle, architected MVC design pattern, adhering to industry standards and ensuring application modularity and maintainability."
+      },
+      {
+        "company":"TSI Analytics Inc.",
+        "title":"Full Stack Software Engineer",
+        "years":"March 2007 - February 2010",
+        "description":"Wrote custom HTML5 and CSS3 email templates and reusable website components for an interactive, multimedia website, migrated data from legacy datastore into a relational database, writing scripts to merge/transform legacy data as needed."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"55%"
+      },
+      {
+        "name":"Express.js",
+        "level":"60%"
+      },
+      {
+        "name":"React.js",
+        "level":"65%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"CSS3",
+        "level":"65%"
+      },
+      {
+        "name":"HTML5",
+        "level":"65%"
+      },
+      {
+        "name":"AWS",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"EQBM Dashboard",
+        "category":"UX/UI design",
+        "image":"eqbm-dashboard.jpg",
+        "url":"https://pseqbm.github.io/eqbm-dashboard/"
+      },
+      {
+        "title":"Travel Site",
+        "category":"Web dev workflow",
+        "image":"travel-site.jpg",
+        "url":"https://pseqbm.github.io/travel-site/"
+      },
+      {
+        "title":"E-Commerce Website",
+        "category":"MERN stack in action",
+        "image":"eqbm-dashboard.jpg",
+        "url":"https://codequs.com/p/r1ZaA8hG4/react-tutorial-build-an-e-commerce-site-from-scratch-using-react-and-netlify"
+      },
+      {
+        "title":"Exercise App",
+        "category":"CRUD operations",
+        "image":"eqbm-dashboard.jpg",
+        "url":"https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1"
+      },
+      {
+        "title":"Streaming App",
+        "category":"MERN stack in action",
+        "image":"eqbm-dashboard.jpg",
+        "url":"https://morioh.com/p/76f6ad95bdd2"
+      },
+      {
+        "title":"Expenses Manager",
+        "category":"MERN stack in action",
+        "image":"eqbm-dashboard.jpg",
+        "url":"https://blog.cloudboost.io/creating-your-first-mern-stack-application-b6604d12e4d3"
+      },
+      {
+        "title":"Crypto Dash",
+        "category":"MERN stack in action",
+        "image":"eqbm-dashboard.jpg",
+        "url":"https://blog.cloudboost.io/creating-your-first-mern-stack-application-b6604d12e4d3"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I've been fortunate enough to interact and work with Paul in the cryptocurrency space. He has a rare combination of both the 'quick thinking' needed by quants, and the longer sighted thoughtfulness of a leader.",
+        "user":"Daniel Kim"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-resume-pseqbm/static/css/main.5facb584.chunk.css",
+    "main.js": "/react-resume-pseqbm/static/js/main.a30af1de.chunk.js",
+    "main.js.map": "/react-resume-pseqbm/static/js/main.a30af1de.chunk.js.map",
+    "runtime-main.js": "/react-resume-pseqbm/static/js/runtime-main.54ca5b3c.js",
+    "runtime-main.js.map": "/react-resume-pseqbm/static/js/runtime-main.54ca5b3c.js.map",
+    "static/js/2.6d087f69.chunk.js": "/react-resume-pseqbm/static/js/2.6d087f69.chunk.js",
+    "static/js/2.6d087f69.chunk.js.map": "/react-resume-pseqbm/static/js/2.6d087f69.chunk.js.map",
+    "index.html": "/react-resume-pseqbm/index.html",
+    "precache-manifest.1b79fff7b97257afb9692d9acfb06e1f.js": "/react-resume-pseqbm/precache-manifest.1b79fff7b97257afb9692d9acfb06e1f.js",
+    "service-worker.js": "/react-resume-pseqbm/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/react-resume-pseqbm/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.6d087f69.chunk.js.LICENSE": "/react-resume-pseqbm/static/js/2.6d087f69.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54ca5b3c.js",
+    "static/js/2.6d087f69.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.a30af1de.chunk.js"
+  ]
+}
